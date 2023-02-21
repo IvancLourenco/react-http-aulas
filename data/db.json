@@ -1,44 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Camisa",
-      "price": "10.90"
-    },
-    {
-      "id": 2,
-      "name": "Calça Preta",
-      "price": "20.20"
-    },
-    {
-      "id": 3,
-      "name": "Vestido",
-      "price": "500.90"
-    },
-    {
       "name": "Tênis",
-      "price": "59.00",
-      "id": 4
-    },
-    {
-      "name": "Tênis",
-      "price": "59.00",
-      "id": 5
+      "price": "1050",
+      "id": 1
     },
     {
       "name": "Teclado",
-      "price": "220",
-      "id": 6
-    },
-    {
-      "name": "Cadeira Gamer",
-      "price": "990",
-      "id": 7
-    },
-    {
-      "name": "mouse",
-      "price": "12 ",
-      "id": 8
+      "price": "59.00",
+      "id": 2
     }
   ]
 }
